@@ -6,5 +6,5 @@ Manage System > Import/Export Configuration.
 
 ## Use watchparser
 ```bash
-./watchparser.py <FILE.xml>
+./watchparse.py <FILE.xml>
 ```
